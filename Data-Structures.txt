@@ -1,0 +1,23 @@
+Free Online Books for Data structure and algorithm.
+
+https://javarevisited.blogspot.com/2016/05/5-free-data-structure-and-algorithm-books-in-java.html#axzz4uXETWjmV
+
+Free Online stuff.
+
+A data structure (DS) is a way of organizing data to be accessed efficiently.
+Important to create fast and powerful algorithms. Makes code cleaner and easier to understand.
+
+Abstract data type provides the interface for data adherence.
+Does not give details implementation or language.
+
+For example the ADT List could be a DS as a dynamic array or linked list.
+
+Computational complexity analysis:
+
+How much time and how much space does my algorithm take.
+
+Big-O notation - gives upper bound of the complexity in the worst case.
+Interested in what happens when input becomes arbitrarily large.
+
+*** Confused a bit about big O - Look this up and create a file specific to this topic.
+
